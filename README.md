@@ -1,5 +1,5 @@
-# book-ranker-api-mysql
-Backend code for book-ranker-ui
+# jwt-app-backend
+Backend code for jwt-app-angular-ui repo
 
 # Setup
 IMPORTANT: If you don't follow the steps below, user authentication will not function
